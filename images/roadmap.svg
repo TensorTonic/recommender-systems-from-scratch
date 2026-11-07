@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240">
+<rect x="0.5" y="0.5" width="1279" height="239" rx="16" fill="#ffffff" stroke="#e5e5e5"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#00753e"/></marker></defs>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="40" y="38" font-size="15" fill="#737373" letter-spacing="2">THE ROADMAP</text>
+<rect x="40" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="70" cy="90" r="14" fill="#00ff88"/><text x="70" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">1</text>
+<text x="56" y="140" font-size="18" font-weight="700" fill="#0a0a0a">Collaborative</text><text x="56" y="163" font-size="18" font-weight="700" fill="#0a0a0a">Filtering</text>
+<text x="56" y="186" font-size="14" fill="#737373">10 topics</text>
+<line x1="195" y1="130" x2="208" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="215" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="245" cy="90" r="14" fill="#00ff88"/><text x="245" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">2</text>
+<text x="231" y="140" font-size="18" font-weight="700" fill="#0a0a0a">Matrix</text><text x="231" y="163" font-size="18" font-weight="700" fill="#0a0a0a">Factorization</text>
+<text x="231" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="370" y1="130" x2="383" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="390" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="420" cy="90" r="14" fill="#00ff88"/><text x="420" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">3</text>
+<text x="406" y="140" font-size="18" font-weight="700" fill="#0a0a0a">Two-Tower</text><text x="406" y="163" font-size="18" font-weight="700" fill="#0a0a0a">Retrieval</text>
+<text x="406" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="545" y1="130" x2="558" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="565" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="595" cy="90" r="14" fill="#00ff88"/><text x="595" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">4</text>
+<text x="581" y="140" font-size="18" font-weight="700" fill="#0a0a0a">Sequence</text><text x="581" y="163" font-size="18" font-weight="700" fill="#0a0a0a">Models</text>
+<text x="581" y="186" font-size="14" fill="#737373">5 topics</text>
+<line x1="720" y1="130" x2="733" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="740" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="770" cy="90" r="14" fill="#00ff88"/><text x="770" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">5</text>
+<text x="756" y="152" font-size="18" font-weight="700" fill="#0a0a0a">Ranking</text>
+<text x="756" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="895" y1="130" x2="908" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="915" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="945" cy="90" r="14" fill="#00ff88"/><text x="945" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">6</text>
+<text x="931" y="152" font-size="18" font-weight="700" fill="#0a0a0a">Evaluation</text>
+<text x="931" y="186" font-size="14" fill="#737373">8 topics</text>
+<line x1="1070" y1="130" x2="1083" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1090" y="60" width="150" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="1120" cy="90" r="14" fill="#00ff88"/><text x="1120" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">7</text>
+<text x="1106" y="140" font-size="18" font-weight="700" fill="#0a0a0a">Cold Start &amp;</text><text x="1106" y="163" font-size="18" font-weight="700" fill="#0a0a0a">Exploration</text>
+<text x="1106" y="186" font-size="14" fill="#737373">7 topics</text>
+</g></svg>
