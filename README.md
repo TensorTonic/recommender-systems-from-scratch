@@ -147,6 +147,8 @@ A new user has no history and a new item has no ratings, so collaborative method
 
 Once the pieces make sense, put them together in a full design. The [ML System Design](https://www.tensortonic.com/ml-design) section has a [video recommendation interview walkthrough](https://www.tensortonic.com/ml-design/interview-walkthrough-recommendation) and case studies such as [event recommendation](https://www.tensortonic.com/ml-design/event-recommendation) and [people you may know](https://www.tensortonic.com/ml-design/people-you-may-know). The [Recommendation and Ranking](https://www.tensortonic.com/projects/sheets/recommendation-ranking) project sheet has end-to-end builds, and the [problem list](https://www.tensortonic.com/problems) has more practice.
 
+For the theory round that usually comes alongside system design, the [Machine Learning Interview Questions](https://www.tensortonic.com/guides/machine-learning-interview-questions) guide covers the core machine learning questions interviewers ask most often.
+
 ## License
 
 MIT
